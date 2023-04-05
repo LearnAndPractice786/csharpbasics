@@ -1,7 +1,7 @@
 1. Write a C# Sharp program to print Hello and your name in a separate line. Go to the editor
 Expected Output :
 Hello: Alexandra Abramov
-
+Console.WriteLine("Alexandra Abramov");
 
 2. Write a C# Sharp program to print the sum of two numbers. Go to the editor
 
